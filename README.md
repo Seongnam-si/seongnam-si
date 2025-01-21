@@ -5,6 +5,7 @@
 새로운 문제 해결을 위한 과정에 최대한 많은것을 배우려 합니다.  
 감사합니다.
 
+[![Static Badge](https://img.shields.io/badge/Gmail-green?style=for-the-badge&logo=gmail&logoColor=%23EA4335)](mailto:hongdev26@gmail.com)
 
 # 프로젝트
 
