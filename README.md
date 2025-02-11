@@ -5,6 +5,7 @@
 새로운 문제 해결을 위한 과정에 최대한 많은것을 배우려 합니다.  
 감사합니다.
 
+[![Notion Badge](https://img.shields.io/badge/Notion-FFC733?style=for-the-badge&logo=Notion&logoColor=black&link=https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)](https://rumbling-soapwort-532.notion.site/193c136f865180bc908ed8a8e4f5064b?pvs=4)
 [![Static Badge](https://img.shields.io/badge/Gmail-green?style=for-the-badge&logo=gmail&logoColor=%23EA4335)](mailto:hongdev26@gmail.com)
 
 # 프로젝트
