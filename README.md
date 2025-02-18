@@ -4,7 +4,7 @@
 꼭 대단한 걸 만들기 위해서는 아닙니다.  
 뒤늦게 찾은 흥미에 확신을 가졌고, 확신을 현실로 만들어 즐겁게 개발하며 성장하고 싶습니다.
 
-### 📓 [개인 블로그](www.seongnam-si-tech.com) | [개인 노션](https://rumbling-soapwort-532.notion.site/193c136f865180bc908ed8a8e4f5064b?pvs=4)
+### 📓 [개인 블로그](https://www.seongnam-si-tech.com) | [개인 노션](https://rumbling-soapwort-532.notion.site/193c136f865180bc908ed8a8e4f5064b?pvs=4)
 ### 📬 [이메일](mailto:hongdev26@gmail.com)
 
 ---
