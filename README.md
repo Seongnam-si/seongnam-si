@@ -20,18 +20,4 @@
 
 ---
 
-### 사용기술
-
-![Javascript](https://img.shields.io/badge/javascript-%23F8F8F5.svg?&style=for-the-badge&logo=javascript&logoColor=23F7DF1E)
-![React](https://img.shields.io/badge/react-%23F8F8F5.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Three.js](https://img.shields.io/badge/three.js-%23F8F8F5.svg?style=for-the-badge&logo=threedotjs&logoColor=black)
-![Zustand](https://img.shields.io/badge/zustand-white?style=for-the-badge&logo=zustand&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23F8F8F5.svg?style=for-the-badge&logo=tailwind-css&logoColor=black)
-</br>
-![Node.js](https://img.shields.io/badge/node.js-%23F8F8F5.svg?style=for-the-badge&logo=node.js&logoColor=%black)
-![Express.js](https://img.shields.io/badge/express.js-%23F8F8F5.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Puppeteer](https://img.shields.io/badge/puppeteer-%23F8F8F5.svg?style=for-the-badge&logo=puppeteer&logoColor=%2361DAFB)
-
----
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongnam-si%2Fhit-counter&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
