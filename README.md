@@ -19,3 +19,7 @@
 이제는 찾기 힘든 척척이를 어른이들에게 제공하여 즐거운 시간을 선사합니다.
 
 ---
+
+### 🌐 오픈소스 기여
+
+[MDN (!==) 연산자 신규 번역](https://github.com/mdn/translated-content/pull/27006)
