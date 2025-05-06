@@ -23,5 +23,4 @@
 ### 🌐 오픈소스 기여
 
 [MDN (!==) 연산자 신규 번역](https://github.com/mdn/translated-content/pull/27006)  
-<br>
 [MDN Add JavaScript to your web page 신규 번역](https://github.com/mdn/translated-content/pull/27113)
